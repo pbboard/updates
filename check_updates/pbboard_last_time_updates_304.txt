@@ -1,1 +1,1 @@
-1738967034-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1738967034.zip-sql-templates
+1740419705-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1740419705.zip
