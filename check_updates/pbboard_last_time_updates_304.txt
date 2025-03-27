@@ -1,1 +1,1 @@
-1742855444-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1742855444.zip
+1743051977-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1743051977.zip-sql
