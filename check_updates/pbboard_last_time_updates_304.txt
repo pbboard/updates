@@ -1,1 +1,1 @@
-1768542130-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1768542130.zip-sql-templates-cache-is_fixup_module
+1768544434-3.0.4-https://github.com/pbboard/updates/raw/main/check_updates/1768544434.zip-sql-templates-cache
